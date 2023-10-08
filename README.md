@@ -4,6 +4,8 @@
 </p>
 <br><br>
 O,Data STAR is a web app that allows the user to put in complex documents as input and ask queries or suggest recommendations based on the data in those documents.
+<br><br>
+To check out the user interface, visit: https://odatastar.co/
 
 ## Installation
 Run the following command on your terminal to install all the required packages,
