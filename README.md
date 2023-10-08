@@ -13,7 +13,7 @@ Run the following command on your terminal to install all the required packages,
 pip install langchain openai chromadb tiktoken flask werkzeug "unstructured[all-docs]"
 ```
 
-Create or edit the "*envs.py*" file and enter your [OpenAI api key](https://platform.openai.com/),
+Create or edit the "*envs.py*" file and enter your [OpenAI api key](https://platform.openai.com/account/api-keys),
 ```python
 APIKEY="<Your API key here>"
 ```
